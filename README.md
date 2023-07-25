@@ -22,8 +22,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/George"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="George" /></a></p><br><br>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=karimi-george&show_icons=true&locale=en&layout=compact" alt="karimi-george" /></p>
+<p><span><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=karimi-george&show_icons=true&locale=en&layout=compact" alt="karimi-george" /></span></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=karimi-george&show_icons=true&locale=en" alt="karimi-george" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karimi-george&show_icons=true&locale=en" alt="karimi-george" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karimi-george&" alt="karimi-george" /></p>
+<p><span><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karimi-george&" alt="karimi-george" /></span></p>
