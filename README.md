@@ -24,6 +24,6 @@
 
 <p><span><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=karimi-george&show_icons=true&locale=en&layout=compact" alt="karimi-george" /></span></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karimi-george&show_icons=true&locale=en" alt="karimi-george" /></p>
+<p><span>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karimi-george&show_icons=true&locale=en" alt="karimi-george" /></span></p>
 
 <p><span><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karimi-george&" alt="karimi-george" /></span></p>
